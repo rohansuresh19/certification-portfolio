@@ -2,7 +2,7 @@
 
 # Rohan Suresh – Certification Portfolio
 
-## Certifications
+### Certifications
 
 | Certification Name | Issued By | Credential |
 |--------------------|-----------|------------|
